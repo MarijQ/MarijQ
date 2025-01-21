@@ -53,7 +53,6 @@
 ## 🛠️ Toolbox  
 
 - **Programming:** Python, SQL, JavaScript/Node.js, MATLAB, Excel VBA, R, C++  
-- **Data Engineering:** Git, ETL pipelines, Docker, Puppeteer/Scrapy, Airflow, Django, PySpark, Hadoop, PostgreSQL  
+- **Data Engineering:** Git, ETL pipelines, Docker, Puppeteer/Scrapy, Django, PySpark, Hadoop, PostgreSQL  
 - **Machine Learning:** Deep learning (TensorFlow/Keras), Time-series analysis, NLP, Statistical modelling, Generative AI (LangChain)  
-- **Data Visualisation:** Tableau, PowerBI, Plotly Dash, Tkinter, Seaborn, Matplotlib, Jupyter Notebooks  
-- **Development Practices:** CI/CD workflows, Agile, Distributed systems, Scalable cloud deployments  
+- **Data Visualisation:** Tableau, PowerBI, Plotly Dash, Tkinter, Seaborn, Matplotlib, Jupyter Notebooks
