@@ -4,7 +4,7 @@
 
 🧠 Currently, I’m learning more about **advanced time-series modelling**, **distributed computing systems**, and **generative AI frameworks** to expand my technical expertise.  
 
-🤝 **Let's Collaborate!** I’m seeking new opportunities in data science/engineering, ML and product development. Contact me at: marij.mtq@gmail.com  
+🤝 **Let's Collaborate!** I’m seeking new opportunities in data science/engineering, ML and product development. Contact me at: marij.mtq@gmail.com or [LinkedIn](https://www.linkedin.com/in/marijqureshi/)
 
 ## 📌 Featured Projects  
 
